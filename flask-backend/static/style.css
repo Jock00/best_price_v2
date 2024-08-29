@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #111;
+    color: #fff;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #222;
+    border-radius: 5px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #333;
+    border-radius: 3px;
+    background-color: #333;
+    color: #fff;
+}
+
+button {
+    display: block;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #008000; /* Green */
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
