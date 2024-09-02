@@ -1,0 +1,17 @@
+ /* Style for the arrow */
+.arrow {
+  cursor: pointer;
+  transition: transform 0.3s;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+/* Rotate arrow to the right when expanded */
+.arrow.down {
+  transform: rotate(90deg);
+}
+
+/* Initially hide the details row */
+.details-row {
+  display: none;
+}

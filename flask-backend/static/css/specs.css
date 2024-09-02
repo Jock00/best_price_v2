@@ -1,0 +1,43 @@
+.specs {
+        display: flex; /* Enables flexbox on the body to center the container */
+        justify-content: center; /* Centers the container horizontally */
+        align-items: center; /* Centers the container vertically */
+        height: 100vh; /* Sets the height of the body to 100% of the viewport height */
+        margin: 0; /* Removes default margin from the body */
+        background-color: #f0f0f0; /* Optional: Adds a light background color to the page */
+}
+
+.title-section {
+      margin-bottom: 20px; /* Adds space below the title */
+      text-align: center; /* Centers the title text */
+}
+
+.title {
+      font-size: 24px; /* Sets the font size for the title */
+      color: #333; /* Sets the text color for the title */
+      margin: 0; /* Removes default margin from the heading */
+}
+
+.content-section {
+      display: flex; /* Uses flexbox to align the image and text sections side by side */
+      align-items: center; /* Centers items vertically within the content section */
+      gap: 20px; /* Adds space between the image and text */
+}
+
+.image-section img {
+      max-width: 300px; /* Sets the maximum width for the image */
+      height: auto; /* Maintains the aspect ratio of the image */
+      border-radius: 8px; /* Optional: Adds rounded corners to the image */
+}
+
+.text-section {
+      display: flex; /* Makes text descriptions flexible */
+      flex-direction: column; /* Aligns the text descriptions vertically */
+      gap: 10px; /* Adds space between each text description */
+}
+
+.description {
+      font-size: 14px; /* Sets a small font size for descriptions */
+      color: #333; /* Sets text color to a dark gray */
+      margin: 0; /* Removes default margin */
+}

@@ -3,27 +3,24 @@
 <head>
     <title>Data</title>
     <link rel="stylesheet"
-          href="{{ url_for('static', filename='show_data.css') }}">
+          href="{{ url_for('static', filename='css/show_data.css') }}">
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/arrow.css') }}">
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/hover_text.css') }}">
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/specs.css') }}">
 </head>
 <body>
-<table>
-    <thead>
-    <tr>
-        <th>ID</th>
-        <th>Name</th>
-        <th>Price</th>
-    </tr>
-    </thead>
-    <tbody>
-    {% for result in results %}
-    <tr>
-        <td>{{ loop.index }}</td>
-        <td>{{ result.url }}</td>
-        <td>{{ result.price }}</td>
-    </tr>
-    {% endfor %}
 
-    </tbody>
-</table>
+    {% if specs %}
+    {% include "specs.html" %}
+    {% endif %}
+
+
+    {% include "show_prices.html" %}
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
 </body>
 </html>

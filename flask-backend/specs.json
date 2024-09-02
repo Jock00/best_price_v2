@@ -1,0 +1,2578 @@
+{
+    "apple iphone 11": {
+        "selfie": 122,
+        "audio": 126,
+        "mobile": 116,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-39867/apple_iphone_11.jpg"
+    },
+    "apple iphone 11 pro max": {
+        "selfie": 122,
+        "audio": 125,
+        "mobile": 122,
+        "display": 122,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-52400/Apple-iPhone-11-Pro-Max-Midnight-Green-frontimage.jpg"
+    },
+    "apple iphone 12": {
+        "selfie": 132,
+        "audio": 140,
+        "mobile": 117,
+        "display": 121,
+        "battery": null,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-91272/featured_appleiphone12.jpg"
+    },
+    "apple iphone 12 mini": {
+        "selfie": 132,
+        "audio": 139,
+        "mobile": 117,
+        "display": null,
+        "battery": 93,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-73440/apple_iphone_12_mini_-550x413-1.jpg"
+    },
+    "apple iphone 12 pro": {
+        "selfie": 132,
+        "audio": null,
+        "mobile": 127,
+        "display": 124,
+        "battery": null,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-61804/t\u00e9l\u00e9chargement.png"
+    },
+    "apple iphone 12 pro max": {
+        "selfie": 132,
+        "audio": 140,
+        "mobile": 131,
+        "display": 127,
+        "battery": 121,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-67027/iphone-12-pro-max-graphite-hero-1.jpg"
+    },
+    "apple iphone 13": {
+        "selfie": 134,
+        "audio": 138,
+        "mobile": 125,
+        "display": 135,
+        "battery": 115,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-95995/Apple-iPhone-13-featured-image-packshot-review.jpg"
+    },
+    "apple iphone 13 mini": {
+        "selfie": 134,
+        "audio": 137,
+        "mobile": 125,
+        "display": 130,
+        "battery": 99,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-99623/Apple-iphone-13-mini-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "apple iphone 13 pro": {
+        "selfie": 134,
+        "audio": 139,
+        "mobile": 141,
+        "display": 141,
+        "battery": 118,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-94778/Apple-iPhone-13-Pro-featured-image-packshot-review.jpg"
+    },
+    "apple iphone 13 pro max": {
+        "selfie": 134,
+        "audio": 139,
+        "mobile": 141,
+        "display": 142,
+        "battery": 136,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-95593/Apple-iPhone-13-Pro-Max-featured-image-packshot-review.jpg"
+    },
+    "apple iphone 14": {
+        "selfie": 144,
+        "audio": 141,
+        "mobile": 133,
+        "display": 138,
+        "battery": 112,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-125834/Apple-iPhone-14_FINAL_featured-image-packshot-review.jpg"
+    },
+    "apple iphone 14 plus": {
+        "selfie": 144,
+        "audio": 141,
+        "mobile": 133,
+        "display": 138,
+        "battery": 128,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-132367/Apple-iPhone-14_Plus_FINAL_featured-image-packshot-review.jpg"
+    },
+    "apple iphone 14 pro": {
+        "selfie": 145,
+        "audio": 142,
+        "mobile": 146,
+        "display": 146,
+        "battery": 119,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-126771/Apple-iPhone-14-Pro_FINAL_featured-image-packshot-review-1.jpg"
+    },
+    "apple iphone 14 pro max": {
+        "selfie": 145,
+        "audio": 142,
+        "mobile": 146,
+        "display": 146,
+        "battery": 133,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-125428/Apple-iPhone-14-Pro-Max_FINAL_featured-image-packshot-review-1.jpg"
+    },
+    "apple iphone 15": {
+        "selfie": null,
+        "audio": 141,
+        "mobile": 145,
+        "display": 140,
+        "battery": 113,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-157597/Apple-iPhone-15_-blue_featured-image-packshot-review.jpg"
+    },
+    "apple iphone 15 plus": {
+        "selfie": null,
+        "audio": 141,
+        "mobile": 145,
+        "display": 140,
+        "battery": 131,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-157595/Apple-iPhone-15-Plus_yellow_featured-image-packshot-review.jpg"
+    },
+    "apple iphone 15 pro": {
+        "selfie": 149,
+        "audio": 142,
+        "mobile": 154,
+        "display": 151,
+        "battery": 114,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-157596/Apple-iPhone-15-Pro_-natural_featured-image-packshot-review.jpg"
+    },
+    "apple iphone 15 pro max": {
+        "selfie": 149,
+        "audio": 143,
+        "mobile": 154,
+        "display": 151,
+        "battery": 134,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-155689/Apple-iPhone-15-Pro-Max_-blue-titanium_featured-image-packshot-review.jpg"
+    },
+    "apple iphone se": {
+        "selfie": null,
+        "audio": 122,
+        "mobile": 100,
+        "display": 120,
+        "battery": 84,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-110247/Apple-iPhone-SE-2022_featured-image-packshot-review-Recovered.jpg"
+    },
+    "apple iphone x": {
+        "selfie": 89,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/2018/07/apple_iphonex.jpg"
+    },
+    "apple iphone xs max": {
+        "selfie": 105,
+        "audio": 131,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-24708/iphonexsmax.jpg"
+    },
+    "asus rog phone 2": {
+        "selfie": null,
+        "audio": 119,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-38331/rog_phone_ii_zs660kl_group_photo_04.jpg"
+    },
+    "asus rog phone 3": {
+        "selfie": null,
+        "audio": 138,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-48775/ROG-Phone-3.jpg"
+    },
+    "asus rog phone 5": {
+        "selfie": null,
+        "audio": 151,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-86183/Asus-ROG-Phone-5-featured-image-packshot-review-Recovered.jpg"
+    },
+    "asus rog phone 6": {
+        "selfie": null,
+        "audio": 155,
+        "mobile": null,
+        "display": 127,
+        "battery": 140,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-129362/Asus-ROG-Phone-6_featured-image-packshot-review.jpg"
+    },
+    "asus rog phone 7": {
+        "selfie": null,
+        "audio": 148,
+        "mobile": 108,
+        "display": 132,
+        "battery": 135,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-150836/Asus-ROG-Phone-7_-W_featured-image-packshot-review.jpg"
+    },
+    "asus smartphone for snapdragon insiders": {
+        "selfie": null,
+        "audio": 149,
+        "mobile": 127,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-90326/Snapdragon.jpg"
+    },
+    "asus zenfone 10": {
+        "selfie": null,
+        "audio": 131,
+        "mobile": null,
+        "display": 126,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-155804/Asus-Zenfone-10_featured-image-packshot-review.jpg"
+    },
+    "asus zenfone 11 ultra": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 125,
+        "display": 143,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-173857/Asus-Zenfone-11-Ultra_featured-image-packshot-review.jpg"
+    },
+    "asus zenfone 6": {
+        "selfie": 132,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-30090/asus-zenfone-6-camera.jpg"
+    },
+    "asus zenfone 7 pro": {
+        "selfie": 137,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-53787/ZenFone-7_pro.jpg"
+    },
+    "asus zenfone 8": {
+        "selfie": null,
+        "audio": 117,
+        "mobile": 116,
+        "display": 115,
+        "battery": 102,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-88750/Asus-Zenfon-8-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "asus zenfone 8 flip": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 102,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-90035/featured_asuszenfone8flip.jpg"
+    },
+    "black shark 2 pro": {
+        "selfie": null,
+        "audio": 96,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-39850/Xiaomi-Black-Shark-2-Pro-1.jpg"
+    },
+    "black shark 3 pro": {
+        "selfie": null,
+        "audio": 103,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-50673/Xiaomi-Black-Shark-3-Pro-3.jpg"
+    },
+    "black shark 4 pro": {
+        "selfie": null,
+        "audio": 149,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-96072/Black-Shark-4-Pro-Hero.png"
+    },
+    "black shark 4s pro": {
+        "selfie": null,
+        "audio": 149,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-103898/Black-Shark-4S-Pro-featured-image-packshot-review.jpg"
+    },
+    "black shark 5 pro": {
+        "selfie": null,
+        "audio": 161,
+        "mobile": 101,
+        "display": 100,
+        "battery": 105,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-107388/Black-Shark-5-Pro-featured-image-packshot-review.jpg"
+    },
+    "crosscall action-x5": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 50,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-107251/Crosscall-Action-X5-featured-image-packshot-review.jpg"
+    },
+    "crosscall core-z5": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 47,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-134429/Crosscall-Core-Z5_featured-image-packshot-review.jpg"
+    },
+    "crosscall stellar-x5": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 113,
+        "display": 109,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-168006/Crosscall-Stellar-X5-featured-image-packshot-review.jpg"
+    },
+    "fairphone 4": {
+        "selfie": null,
+        "audio": 93,
+        "mobile": 69,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-120246/Fairphone-4-featured-image-packshot-review-.jpg"
+    },
+    "fairphone 5": {
+        "selfie": null,
+        "audio": 92,
+        "mobile": 108,
+        "display": 119,
+        "battery": 83,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-155307/Fairphone-5_featured-image-packshot-review.jpg"
+    },
+    "google pixel 2": {
+        "selfie": 99,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-24417/googlepixel2.jpg"
+    },
+    "google pixel 3": {
+        "selfie": 123,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-24749/googlepixel3.jpg"
+    },
+    "google pixel 4": {
+        "selfie": 124,
+        "audio": 117,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-35617/Clearly-White-Pixel-4-Front_Back.jpg"
+    },
+    "google pixel 4a": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 100,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-61149/google-pixel-4a-1.jpg"
+    },
+    "google pixel 5": {
+        "selfie": 126,
+        "audio": 113,
+        "mobile": 109,
+        "display": null,
+        "battery": 93,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-72009/google_pixel_5_frontback.jpeg"
+    },
+    "google pixel 6": {
+        "selfie": 129,
+        "audio": 137,
+        "mobile": 126,
+        "display": 125,
+        "battery": 97,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-103489/Google-Pixel-6-featured-image-packshot-review-Recovered.jpg"
+    },
+    "google pixel 6 pro": {
+        "selfie": 138,
+        "audio": 138,
+        "mobile": 134,
+        "display": 130,
+        "battery": 81,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-98765/Google-Pixel-6-Pro-featured-image-packshot-review.jpg"
+    },
+    "google pixel 6a": {
+        "selfie": null,
+        "audio": 135,
+        "mobile": 122,
+        "display": 125,
+        "battery": 94,
+        "image": "https://www.dxomark.fr/wp-content/uploads/medias/post-119116/Pixel-6a_FR-5.jpg"
+    },
+    "google pixel 7": {
+        "selfie": 138,
+        "audio": 123,
+        "mobile": 140,
+        "display": 136,
+        "battery": 98,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-127929/Google-Pixel-7_featured-image-packshot-review.jpg"
+    },
+    "google pixel 7 pro": {
+        "selfie": 142,
+        "audio": 137,
+        "mobile": 147,
+        "display": 148,
+        "battery": 102,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-126764/Google-Pixel-7-Pro_featured-image-packshot-review.jpg"
+    },
+    "google pixel 7a": {
+        "selfie": 140,
+        "audio": 132,
+        "mobile": 133,
+        "display": 135,
+        "battery": 96,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-146808/Google-Pixel-7a_featured-image-packshot-review.jpg"
+    },
+    "google pixel 8": {
+        "selfie": null,
+        "audio": 140,
+        "mobile": 148,
+        "display": 153,
+        "battery": 103,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-157493/Google-Pixel-8-featured-image-packshot-review-Recovered.jpg"
+    },
+    "google pixel 8 pro": {
+        "selfie": 145,
+        "audio": 142,
+        "mobile": 153,
+        "display": 154,
+        "battery": 111,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-157488/Google-Pixel-8-Pro-2-featured-image-packshot-review-Recovered.jpg"
+    },
+    "google pixel 8a": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 136,
+        "display": 145,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-168631/Google-pixel-8a_featured-image-packshot-review.jpg"
+    },
+    "google pixel 9": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 154,
+        "display": 156,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-121436/Google-Pixel-9-featured-image-packshot-review.jpg"
+    },
+    "google pixel 9 pro xl": {
+        "selfie": 148,
+        "audio": null,
+        "mobile": 158,
+        "display": 158,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-176677/Google-Pixel-9-Pro-XL_featured-image-packshot-review.png"
+    },
+    "google pixel fold": {
+        "selfie": null,
+        "audio": 133,
+        "mobile": 133,
+        "display": 145,
+        "battery": 88,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-146338/Google-Pixel-Fold-_featured-image-packshot-review.jpg"
+    },
+    "honor 20 pro": {
+        "selfie": 112,
+        "audio": 96,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-37169/honor20pro-1024x768.jpg"
+    },
+    "honor 200": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 130,
+        "display": 147,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-174329/Honor-200_featured-image-packshot-review.jpg"
+    },
+    "honor 200 lite": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 86,
+        "display": null,
+        "battery": null,
+        "image": "https://www.dxomark.fr/wp-content/uploads/medias/post-173760/Honor-200-Lite_featured-image-packshot-review.jpg"
+    },
+    "honor 200 pro": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 137,
+        "display": 151,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-173311/honor_200_pro_featured_image_2.jpg"
+    },
+    "honor 70": {
+        "selfie": null,
+        "audio": 109,
+        "mobile": 115,
+        "display": 125,
+        "battery": 126,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-120436/featured-image-packshot-review-1.png"
+    },
+    "honor 70 lite": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 58,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-143845/Honor-70-Lite_featured-image-packshot-review.jpg"
+    },
+    "honor 90": {
+        "selfie": null,
+        "audio": 106,
+        "mobile": 122,
+        "display": 140,
+        "battery": 116,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-150729/Honor-90_featured-image-packshot-review-Recovered.jpg"
+    },
+    "honor 90 lite": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 73,
+        "display": null,
+        "battery": 127,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-153992/featured-image-packshot-review-1.png"
+    },
+    "honor 90 smart": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 79,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-169761/Honor-90-Smart_featured-image-packshot-review.jpg"
+    },
+    "honor magic v2": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 117,
+        "display": 151,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-167258/Honor-Magic-V2_featured-image-packshot-review.jpg"
+    },
+    "honor magic vs": {
+        "selfie": null,
+        "audio": 137,
+        "mobile": 119,
+        "display": 136,
+        "battery": 108,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-148586/Honor-Magic-Vs_featured-image-packshot-review.jpg"
+    },
+    "honor magic3 pro plus": {
+        "selfie": null,
+        "audio": 149,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-103700/Honor-Magic3-Pro-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "honor magic4 lite": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 61,
+        "display": null,
+        "battery": 135,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-115884/honor-Magic4-Lite-5G_featured-image-packshot-review.jpg"
+    },
+    "honor magic4 pro": {
+        "selfie": null,
+        "audio": 137,
+        "mobile": 126,
+        "display": 130,
+        "battery": 95,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-113428/Honor-Magic4-Pro_cyan_2featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "honor magic4 ultimate": {
+        "selfie": 122,
+        "audio": null,
+        "mobile": 147,
+        "display": 138,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-108612/Honor-Magic4-Ultimate-featured-image-packshot-review-Recovered.jpg"
+    },
+    "honor magic5 lite": {
+        "selfie": null,
+        "audio": 97,
+        "mobile": 74,
+        "display": null,
+        "battery": 152,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-139541/Honor-Magic5-Lite_featured-image-packshot-review.jpg"
+    },
+    "honor magic5 pro": {
+        "selfie": 123,
+        "audio": 138,
+        "mobile": 152,
+        "display": 151,
+        "battery": 141,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-140751/Honor-Magic5-Pro_featured-image-packshot-review.jpg"
+    },
+    "honor magic6 lite": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 156,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-164139/Honor-Magic6-Lite_green_featured-image-packshot-review.jpg"
+    },
+    "honor magic6 pro": {
+        "selfie": 151,
+        "audio": 155,
+        "mobile": 158,
+        "display": 157,
+        "battery": 157,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-165966/Honor-Magic6-Pro-OEM_featured-image-packshot-review-Recovered.jpg"
+    },
+    "honor v30 pro": {
+        "selfie": 102,
+        "audio": 104,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-45814/honor_v30_pro_new.jpg"
+    },
+    "honor x7": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 61,
+        "display": null,
+        "battery": 116,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-120491/Honor-X7_featured-image-packshot-review.jpg"
+    },
+    "honor x7a": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 147,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-135803/Honor-X7a-featured-image-packshot-review.jpg"
+    },
+    "honor x7b": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 151,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-163897/Honor-X7b_featured-image-packshot-review.jpg"
+    },
+    "honor x8": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 52,
+        "display": null,
+        "battery": 132,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-130906/Honor-X8-5G_featured-image-packshot-review-Recovered.jpg"
+    },
+    "honor x9a": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 143,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-135799/Honor-X9A_featured-image-packshot-review.jpg"
+    },
+    "honor x9b": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 156,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-160063/Honor-X9B-FINAL_featured-image-packshot-review.jpg"
+    },
+    "huawei mate 20 pro": {
+        "selfie": 96,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-25259/huawei_mate20_pro.jpg"
+    },
+    "huawei mate 20 x": {
+        "selfie": null,
+        "audio": 133,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-35543/Huawei-Mate-20-X-1.jpg"
+    },
+    "huawei mate 30 pro": {
+        "selfie": 112,
+        "audio": 109,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-46929/huawei-mate-30-pro-5g.jpg"
+    },
+    "huawei mate 40 pro": {
+        "selfie": 142,
+        "audio": null,
+        "mobile": 135,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-57667/huaweimate40pro.jpg"
+    },
+    "huawei mate 40 pro plus": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 139,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-67563/mate-40-pro-plus.jpg"
+    },
+    "huawei mate 50 pro": {
+        "selfie": 145,
+        "audio": 144,
+        "mobile": 149,
+        "display": 133,
+        "battery": 103,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-132257/Huawei-Mate-50-Pro_featured-image-packshot-review.jpg"
+    },
+    "huawei mate 60 pro": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": 148,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-164762/Huawei-Mate-60-Pro_featured-image-packshot-review.jpg"
+    },
+    "huawei mate 60 pro plus": {
+        "selfie": null,
+        "audio": 138,
+        "mobile": 157,
+        "display": 148,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-161593/Huawei-Mate-60-ProPLUS_featured-image-packshot-review.jpg"
+    },
+    "huawei nova 6": {
+        "selfie": 136,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-38644/huaweinova65g.jpg"
+    },
+    "huawei p20 pro": {
+        "selfie": 91,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-22273/huawei-p20-pro-midnight-blue-original.jpg"
+    },
+    "huawei p30 pro": {
+        "selfie": 118,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-27591/HuaweiP30Pro_selfie-1.jpg"
+    },
+    "huawei p40": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 102,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-56669/huaweip40proL.jpg"
+    },
+    "huawei p40 lite": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 114,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-79851/Huawei-P40-Lite-FeatImg.jpg"
+    },
+    "huawei p40 pro": {
+        "selfie": 141,
+        "audio": 102,
+        "mobile": 129,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-62601/HUAWEI_P40_Pro_Silver_back-1.jpg"
+    },
+    "huawei p50 pro": {
+        "selfie": 144,
+        "audio": 119,
+        "mobile": 143,
+        "display": 134,
+        "battery": 123,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-88973/featured_huaweip50pro.jpg"
+    },
+    "huawei p60 pro": {
+        "selfie": null,
+        "audio": 141,
+        "mobile": 156,
+        "display": 143,
+        "battery": 138,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-147160/Huawei-P60-Pro_featured-image-packshot-review-Recovered.jpg"
+    },
+    "huawei pura 70 ultra": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 163,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-172110/Huawei-Pura-70-Ultra_featured-image-packshot-review.jpg"
+    },
+    "intex aqua selfie": {
+        "selfie": 25,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-24548/intex-aqua-selfie-image.jpg"
+    },
+    "lenovo legion phone 2 pro": {
+        "selfie": null,
+        "audio": 124,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-91009/Lenovo-Legion-Phone-2-Pro-B-featured-image-packshot-review.jpg"
+    },
+    "lenovo legion phone pro": {
+        "selfie": null,
+        "audio": 105,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-61562/lenovo_legion_phone_pro-1-1.jpg"
+    },
+    "lenovo legion y90": {
+        "selfie": null,
+        "audio": 133,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-116163/Lenovo-Legion-Y90_featured-image-packshot-review.jpg"
+    },
+    "lenovo z6 pro": {
+        "selfie": 94,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-33573/lenovo-z6-pro.jpg"
+    },
+    "lg g8 thinq": {
+        "selfie": null,
+        "audio": 95,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-41372/LG-G8ThinQ_title.jpg"
+    },
+    "lg v60 thinq": {
+        "selfie": null,
+        "audio": 113,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-49227/LG-V60_ThinQ.jpg"
+    },
+    "meitu t9": {
+        "selfie": 89,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-26641/Meitu_T9.jpg"
+    },
+    "meitu v6": {
+        "selfie": 77,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-23358/meituv6.jpg"
+    },
+    "motorola edge 20 pro": {
+        "selfie": null,
+        "audio": 102,
+        "mobile": null,
+        "display": null,
+        "battery": 118,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-99150/Motorola-Edge-20-Pro-featured-image-packshot-review.jpg"
+    },
+    "motorola edge 30 pro": {
+        "selfie": null,
+        "audio": 115,
+        "mobile": 101,
+        "display": 123,
+        "battery": 98,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-110021/Motorola-Edge-30-Pro-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "motorola edge 40 neo": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 103,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-160092/Motorola-Edge-40-Neo_featured-image-packshot-review.jpg"
+    },
+    "motorola edge 40 pro": {
+        "selfie": null,
+        "audio": 116,
+        "mobile": 130,
+        "display": 122,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-144720/Motorola-Edge-40-Pro_featured-image-packshot-review.jpg"
+    },
+    "motorola edge 50 ultra": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 146,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-175418/Motorola-Edge-50-Ultra-featured-image-packshot-review.jpg"
+    },
+    "motorola edge plus": {
+        "selfie": null,
+        "audio": 116,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-47251/motorola_edge.jpg"
+    },
+    "motorola moto g23": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 54,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-148516/Motorola-Moto-G23_New_featured-image-packshot-review.jpg"
+    },
+    "motorola moto g34": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 67,
+        "display": null,
+        "battery": 102,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-169854/Motorola-Moto-g34-5G_featured-image-packshot-review.jpg"
+    },
+    "motorola moto g53": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 68,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-148521/Motorola-moto-g53-5G_featured-image-packshot-review.jpg"
+    },
+    "motorola moto g54": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 85,
+        "display": null,
+        "battery": 90,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-171753/Motorola-Moto-g54-5G_featured-image-packshot-review.jpg"
+    },
+    "motorola moto g62": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 66,
+        "display": null,
+        "battery": 112,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-123223/Motorola-Moto-g62-5G_featured-image-packshot-review.jpg"
+    },
+    "motorola moto g85": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 85,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-177532/Motorola-Moto-G85-5G_featured-image-packshot-review.png"
+    },
+    "motorola moto g9 power": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 111,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-79794/Motorola-Moto-G9-Power-featured-image-packshot-review.jpg"
+    },
+    "motorola razr": {
+        "selfie": null,
+        "audio": 101,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-75408/motorola_razr_5g.jpg"
+    },
+    "motorola razr 40 ultra": {
+        "selfie": null,
+        "audio": 126,
+        "mobile": null,
+        "display": 113,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-156701/Motorola-Razr-40-Ultra_featured-image-packshot-review.jpg"
+    },
+    "nokia 7.2": {
+        "selfie": 100,
+        "audio": 87,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-38616/nokia-7-2.jpg"
+    },
+    "nokia g42": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 113,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-155852/Nokia-G42-5G_featured-image-packshot-review.jpg"
+    },
+    "nothing phone": {
+        "selfie": null,
+        "audio": 105,
+        "mobile": null,
+        "display": 134,
+        "battery": 124,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-155308/Nothing-Phone-2_featured-image-packshot-review.jpg"
+    },
+    "nubia red magic 3s": {
+        "selfie": null,
+        "audio": 94,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-43076/nubiaredmagic3s.jpg"
+    },
+    "nubia red magic 5s": {
+        "selfie": null,
+        "audio": 112,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-53199/ZTE_Nubia_Red_Magic_5S.jpg"
+    },
+    "nubia redmagic 6 pro": {
+        "selfie": null,
+        "audio": 112,
+        "mobile": null,
+        "display": null,
+        "battery": 127,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-82804/Nubia-RedMagic-6-Pro-featured-image-packshot-review.jpg"
+    },
+    "nubia redmagic 7 pro": {
+        "selfie": null,
+        "audio": 105,
+        "mobile": null,
+        "display": null,
+        "battery": 118,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-117990/Nubia-RedMagic-7-Pro_featured-image-packshot-review.jpg"
+    },
+    "nubia redmagic 8 pro": {
+        "selfie": null,
+        "audio": 103,
+        "mobile": null,
+        "display": null,
+        "battery": 138,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-142398/Nubia-RedMagic-8-Pro-featured-image-packshot-review-Recovered.jpg"
+    },
+    "oneplus 10 pro": {
+        "selfie": null,
+        "audio": 117,
+        "mobile": 122,
+        "display": 124,
+        "battery": 100,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-111229/OnePlus-10-Pro_featured-image-packshot-review.jpg"
+    },
+    "oneplus 10t": {
+        "selfie": null,
+        "audio": 126,
+        "mobile": null,
+        "display": null,
+        "battery": 126,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-131733/OnePlus-10T-5G_featured-image-packshot-review.jpg"
+    },
+    "oneplus 11": {
+        "selfie": null,
+        "audio": 128,
+        "mobile": 127,
+        "display": 124,
+        "battery": 125,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-138310/OnePlus-11_featured-image-packshot-review-Recovered.jpg"
+    },
+    "oneplus 7 pro": {
+        "selfie": 113,
+        "audio": 113,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-38226/OnePlus-7-pro_Main-Camera-1200\u00d79001.jpg"
+    },
+    "oneplus 8": {
+        "selfie": null,
+        "audio": 119,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-49524/oneplus8.jpg"
+    },
+    "oneplus 8 pro": {
+        "selfie": 123,
+        "audio": 117,
+        "mobile": 113,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-48198/oneplus8Pro.jpg"
+    },
+    "oneplus 8t": {
+        "selfie": 107,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 112,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-74186/oneplus8t.jpg"
+    },
+    "oneplus 9": {
+        "selfie": null,
+        "audio": 119,
+        "mobile": null,
+        "display": null,
+        "battery": 122,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-89121/OnePlus-9-featured-image-packshot-review.jpeg"
+    },
+    "oneplus 9 pro": {
+        "selfie": null,
+        "audio": 121,
+        "mobile": 122,
+        "display": 124,
+        "battery": 104,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-82583/OnePlus-9-Pro-featured-image-packshot-review.jpg"
+    },
+    "oneplus nord 2": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 128,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-91103/oneplusnord25g.jpg"
+    },
+    "oneplus nord 2t": {
+        "selfie": null,
+        "audio": 115,
+        "mobile": 114,
+        "display": null,
+        "battery": 112,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-120445/OnePlus-Nord-2T-5G_featured-image-packshot-review-Recovered.jpg"
+    },
+    "oneplus nord ce": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 84,
+        "display": null,
+        "battery": 136,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-92348/OnePlus-Nord-CE-5G-featured-image-packshot-review-Recovered.jpg"
+    },
+    "oneplus open": {
+        "selfie": null,
+        "audio": 135,
+        "mobile": null,
+        "display": 137,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-162643/OnePlus-Open_featured-image-packshot-review.jpg"
+    },
+    "oppo a16s": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 46,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-103601/Oppo-A16s-featured-image-packshot-review.jpg"
+    },
+    "oppo a54": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 119,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-86314/Oppo-A54-5G-featured-image-packshot-review.jpg"
+    },
+    "oppo a57": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 46,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-134597/Oppo-A57_featured-image-packshot-review.jpg"
+    },
+    "oppo a74": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 121,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-88008/A74-5G-featured-image-packshot-review.jpg"
+    },
+    "oppo a77": {
+        "selfie": null,
+        "audio": 106,
+        "mobile": 53,
+        "display": null,
+        "battery": 138,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-120159/Oppo-A77-5G_featured-image-packshot-review-Recovered.jpg"
+    },
+    "oppo a78": {
+        "selfie": null,
+        "audio": 111,
+        "mobile": 69,
+        "display": null,
+        "battery": 132,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-143532/Oppo-A78-5G_featured-image-packshot-review-Recovered.jpg"
+    },
+    "oppo a94": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 93,
+        "display": null,
+        "battery": 127,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-86918/Oppo-A94-5G-A-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "oppo find n2": {
+        "selfie": null,
+        "audio": 135,
+        "mobile": null,
+        "display": 128,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-143433/Oppo-Find-N2_featured-image-packshot-review.jpg"
+    },
+    "oppo find n2 flip": {
+        "selfie": null,
+        "audio": 131,
+        "mobile": 114,
+        "display": 142,
+        "battery": 108,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-139927/Oppo-Find-N2-Flip_FINAL-featured-image-packshot-review.jpg"
+    },
+    "oppo find x2 pro": {
+        "selfie": 97,
+        "audio": 131,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-42531/oppofindx2pro.jpg"
+    },
+    "oppo find x3 lite": {
+        "selfie": null,
+        "audio": 96,
+        "mobile": null,
+        "display": null,
+        "battery": 109,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-87310/Oppo-Find-X3-Lite-FI-review.jpg"
+    },
+    "oppo find x3 neo": {
+        "selfie": null,
+        "audio": 108,
+        "mobile": 106,
+        "display": 123,
+        "battery": 126,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-98155/Oppo-Find-X3-Neo-featured-image-1024x691-1.jpg"
+    },
+    "oppo find x3 pro": {
+        "selfie": null,
+        "audio": 110,
+        "mobile": 128,
+        "display": 125,
+        "battery": 105,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-84127/oppo_find_x3_pro.jpg"
+    },
+    "oppo find x5": {
+        "selfie": null,
+        "audio": 109,
+        "mobile": 114,
+        "display": 130,
+        "battery": 111,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-110015/Oppo-Find-X5_featured-image-packshot-review-Recovered.jpg"
+    },
+    "oppo find x5 lite": {
+        "selfie": null,
+        "audio": 103,
+        "mobile": 95,
+        "display": 113,
+        "battery": 135,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-111564/Oppo-Find-X5-Lite-featured-image-packshot-review.jpg"
+    },
+    "oppo find x5 pro": {
+        "selfie": 116,
+        "audio": 128,
+        "mobile": 130,
+        "display": 137,
+        "battery": 116,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-110100/Oppo-Find-X5-Pro-featured-image-packshot-review-Recovered.jpg"
+    },
+    "oppo find x6": {
+        "selfie": null,
+        "audio": 127,
+        "mobile": 150,
+        "display": 126,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-145241/Oppo-Find-X6_featured-image-packshot-review.jpg"
+    },
+    "oppo find x6 pro": {
+        "selfie": null,
+        "audio": 128,
+        "mobile": 153,
+        "display": 138,
+        "battery": 151,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-145608/Oppo-Find-X6-Pro_featured-image-packshot-review.jpg"
+    },
+    "oppo find x7 ultra": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 157,
+        "display": 144,
+        "battery": 160,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-168145/Oppo-Find-X7-Ultra_featured-image-packshot-review.jpg"
+    },
+    "oppo reno12": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 144,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-173701/Oppo-Reno12_featured-image-packshot-review.jpg"
+    },
+    "oppo reno12 pro": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 147,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-173707/Oppo-Reno12-Pro_featured-image-packshot-review.jpg"
+    },
+    "oppo reno4": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 94,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-75319/Oppo-Reno4-5G-featured-image-packshot-review.jpg"
+    },
+    "oppo reno4 pro": {
+        "selfie": 95,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-66893/oppo_reno4_pro_blue.jpg"
+    },
+    "oppo reno5 pro plus": {
+        "selfie": null,
+        "audio": 104,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-83756/Oppo-Reno5-Pro-Plus-featured-image-packshot-review.jpg"
+    },
+    "oppo reno6": {
+        "selfie": 106,
+        "audio": 102,
+        "mobile": 89,
+        "display": 115,
+        "battery": 146,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-98620/Oppo-Reno6-5Gfeatured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "oppo reno6 pro": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 109,
+        "display": null,
+        "battery": null,
+        "image": ""
+    },
+    "oppo reno8": {
+        "selfie": null,
+        "audio": 104,
+        "mobile": 112,
+        "display": 124,
+        "battery": 141,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-120411/Oppo-Reno8-5G_featured-image-packshot-review-Recovered.jpg"
+    },
+    "oppo reno8 lite": {
+        "selfie": null,
+        "audio": 106,
+        "mobile": 64,
+        "display": null,
+        "battery": 139,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-122156/Oppo-Reno8-Lite-5G_featured-image-packshot-review.jpg"
+    },
+    "oppo reno8 pro": {
+        "selfie": null,
+        "audio": 123,
+        "mobile": 114,
+        "display": 123,
+        "battery": 115,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-121091/Oppo-Reno8-Pro-5G_featured-image-packshot-review-Recovered.jpg"
+    },
+    "poco f4 gt": {
+        "selfie": null,
+        "audio": 128,
+        "mobile": null,
+        "display": 111,
+        "battery": 100,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-116528/Poco-F4-GT_featured-image-packshot-review-Recovered.jpg"
+    },
+    "poco f5 pro": {
+        "selfie": null,
+        "audio": 119,
+        "mobile": null,
+        "display": null,
+        "battery": 131,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-154144/POCO-F5-Pro.png"
+    },
+    "poco x3 nfc": {
+        "selfie": null,
+        "audio": 109,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-75190/featured_pocox3.jpg"
+    },
+    "realme 9i": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 75,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-129423/Realme-9i-5G_featured-image-packshot-review.jpg"
+    },
+    "realme c11": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 99,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-79432/realmeC11F-1.jpg"
+    },
+    "realme c21": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 99,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-92436/Realme-C21-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "realme gt": {
+        "selfie": null,
+        "audio": 112,
+        "mobile": null,
+        "display": 120,
+        "battery": 115,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-102211/Realme-GT-5G-featured-image-packshot-review-1024x691-1.jpeg"
+    },
+    "realme gt 2 pro": {
+        "selfie": null,
+        "audio": 109,
+        "mobile": null,
+        "display": 130,
+        "battery": 117,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-111602/Realme-GT-2-Pro_featured-image-packshot-review-Recovered.jpg"
+    },
+    "realme gt neo 2": {
+        "selfie": null,
+        "audio": 116,
+        "mobile": null,
+        "display": 114,
+        "battery": 144,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-103136/Realme-GT-Neo-2-featured-image-packshot-review.jpg"
+    },
+    "realme gt neo 3": {
+        "selfie": null,
+        "audio": 118,
+        "mobile": null,
+        "display": null,
+        "battery": 129,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-111577/Realme-GT-Neo-3_featured-image-packshot-review-Recovered.jpg"
+    },
+    "realme gt neo 5": {
+        "selfie": null,
+        "audio": 128,
+        "mobile": null,
+        "display": null,
+        "battery": 147,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-153433/Realme-GT-Neo-5_240W_featured-image-packshot-review-Recovered.jpg"
+    },
+    "realme x2 pro": {
+        "selfie": 96,
+        "audio": 108,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-46766/realme-x2-pro-feature-image-1536x1152-1-1536x1152-1.jpg"
+    },
+    "samsung galaxy a05s": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 45,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-163369/Samsung-Galaxy-A05s_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy a13": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 125,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-122764/Samsung-Galaxy-A13-5G_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy a14": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 67,
+        "display": null,
+        "battery": 117,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-146059/Samsung-Galaxy-A14-5G_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy a15": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 83,
+        "display": null,
+        "battery": 127,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-167234/Samsung-Galaxy-A15-5G_-Final_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy a15 lte": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 81,
+        "display": null,
+        "battery": 137,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-167234/Samsung-Galaxy-A15-LTE_-FINAL_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy a22": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 48,
+        "display": 82,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-91999/featured_samsunggalaxya225g.jpg"
+    },
+    "samsung galaxy a23": {
+        "selfie": null,
+        "audio": 105,
+        "mobile": 70,
+        "display": null,
+        "battery": 129,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-130602/Samsung-Galaxy-A23-5G_featured-image-packshot-review-Recovered.jpg"
+    },
+    "samsung galaxy a25": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 92,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-163874/Samsung-Galaxy-A25-5G.png"
+    },
+    "samsung galaxy a33": {
+        "selfie": null,
+        "audio": 125,
+        "mobile": 85,
+        "display": null,
+        "battery": 96,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-112131/Samsung-Galaxy-A33-5G-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "samsung galaxy a34": {
+        "selfie": null,
+        "audio": 126,
+        "mobile": 92,
+        "display": null,
+        "battery": 129,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-142157/Samsung-Galaxy-A34-5G_featured-image-packshot-review-1.jpg"
+    },
+    "samsung galaxy a35": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 104,
+        "display": 143,
+        "battery": 101,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-168239/Samsung-Galaxy-A35-5G_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy a52": {
+        "selfie": null,
+        "audio": 127,
+        "mobile": 88,
+        "display": 114,
+        "battery": 106,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-80421/SAMSUNG_GALAXY_A52_5G.jpg"
+    },
+    "samsung galaxy a52s": {
+        "selfie": null,
+        "audio": 127,
+        "mobile": 88,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-104957/Samsung-Galaxy-A52s-5G-featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy a53": {
+        "selfie": null,
+        "audio": 126,
+        "mobile": 79,
+        "display": 108,
+        "battery": 95,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-112140/galaxy-A53.png"
+    },
+    "samsung galaxy a54": {
+        "selfie": null,
+        "audio": 133,
+        "mobile": 107,
+        "display": 129,
+        "battery": 113,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-142650/Samsung-Galaxy-A54-5G_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy a55": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 108,
+        "display": 147,
+        "battery": 121,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-167690/Samsung-Galaxy-A55-5G_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy a71": {
+        "selfie": 107,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-45756/Samsung_Galaxy_A71-1-1024x768-1.jpg"
+    },
+    "samsung galaxy a72": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 92,
+        "display": null,
+        "battery": 131,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-88123/template-featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy m51": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 136,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-79796/Samsung-Galaxy-M51-featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy note 10 plus": {
+        "selfie": 134,
+        "audio": 113,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-31592/galaxynote10plus.jpg"
+    },
+    "samsung galaxy note20": {
+        "selfie": 135,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-62028/samsung-galaxy-note20.jpg"
+    },
+    "samsung galaxy note20 ultra": {
+        "selfie": 130,
+        "audio": 115,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-62683/samsung-galaxy-note20-ultra-5g-1-1.jpg"
+    },
+    "samsung galaxy s10": {
+        "selfie": 130,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-28625/SamsungGalaxyS105G-front.jpg"
+    },
+    "samsung galaxy s10 plus": {
+        "selfie": 129,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-26542/GalaxyS10Plus.jpg"
+    },
+    "samsung galaxy s20 plus": {
+        "selfie": null,
+        "audio": 113,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-46554/samsung-galaxy-s20plus.png"
+    },
+    "samsung galaxy s20 ultra": {
+        "selfie": 137,
+        "audio": 116,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-44843/SS_S20_Ultra_Catalog_Gray_F_B.jpg"
+    },
+    "samsung galaxy s21": {
+        "selfie": null,
+        "audio": 118,
+        "mobile": 117,
+        "display": null,
+        "battery": 108,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-78628/galaxys21_5g.jpg"
+    },
+    "samsung galaxy s21 fe": {
+        "selfie": 127,
+        "audio": 118,
+        "mobile": 117,
+        "display": 130,
+        "battery": 82,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-105187/Samsung-Galaxy-S21-FE-5G-featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy s21 plus": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 115,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-82216/Samsung-Galaxy-S21-Plus-5G-SD-featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy s21 ultra": {
+        "selfie": 133,
+        "audio": 118,
+        "mobile": 117,
+        "display": 130,
+        "battery": 111,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-74840/samsunggalaxys21ultra5g.jpg"
+    },
+    "samsung galaxy s22": {
+        "selfie": null,
+        "audio": 120,
+        "mobile": null,
+        "display": 133,
+        "battery": 90,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-108382/Samsung-Galaxy-S22-Exynos-featured-image-packshot-review-Recovered.jpg"
+    },
+    "samsung galaxy s22 plus": {
+        "selfie": null,
+        "audio": 121,
+        "mobile": 125,
+        "display": 134,
+        "battery": 95,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-108384/Samsung-Galaxy-S22-Exynos-featured-image-packshot-review-1.jpg"
+    },
+    "samsung galaxy s22 ultra": {
+        "selfie": null,
+        "audio": 133,
+        "mobile": 135,
+        "display": 135,
+        "battery": 103,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-112063/Samsung-Galaxy-S22-Ultra-Snapdragon_-featured-image-packshot-review-Recovered.jpg"
+    },
+    "samsung galaxy s23": {
+        "selfie": null,
+        "audio": 133,
+        "mobile": 133,
+        "display": 149,
+        "battery": 109,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-140900/Samsung-Galaxy-S23_-featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy s23 fe": {
+        "selfie": null,
+        "audio": 138,
+        "mobile": 127,
+        "display": 140,
+        "battery": 101,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-163185/Samsung-Galaxy-S23-FE_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy s23 plus": {
+        "selfie": null,
+        "audio": 137,
+        "mobile": 133,
+        "display": 147,
+        "battery": 134,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-140797/Samsung-Galaxy-S23-Plus_-featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy s23 ultra": {
+        "selfie": 141,
+        "audio": 139,
+        "mobile": 140,
+        "display": 148,
+        "battery": 142,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-139011/Samsung-Galaxy-S23-Ultra_-featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy s24": {
+        "selfie": null,
+        "audio": 134,
+        "mobile": 133,
+        "display": 154,
+        "battery": 107,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-166668/Samsung-Galaxy-S24_-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "samsung galaxy s24 plus": {
+        "selfie": null,
+        "audio": 139,
+        "mobile": 133,
+        "display": 154,
+        "battery": 109,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-166686/Samsung-Galaxy-S24-Plus_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy s24 ultra": {
+        "selfie": null,
+        "audio": 139,
+        "mobile": 144,
+        "display": 155,
+        "battery": 130,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-164446/Samsung-Galaxy-S24-Ultra_A_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy s8": {
+        "selfie": 94,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-23766/samsung_galaxys8.jpg"
+    },
+    "samsung galaxy z flip": {
+        "selfie": 111,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-47183/galaxy-z-flip-by-samsung.png"
+    },
+    "samsung galaxy z flip3": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 111,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-118495/Samsung-Galaxy-Z-Flip3-5G_featured-image-packshot-review-Recovered.jpg"
+    },
+    "samsung galaxy z flip4": {
+        "selfie": null,
+        "audio": 130,
+        "mobile": 112,
+        "display": 133,
+        "battery": 95,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-129187/Samsung-Galaxy-Z-Flip4_A_featured-image-packshot-review-Recovered.jpg"
+    },
+    "samsung galaxy z flip5": {
+        "selfie": null,
+        "audio": 129,
+        "mobile": 127,
+        "display": 144,
+        "battery": 109,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-154076/ZFlip-5.png"
+    },
+    "samsung galaxy z flip6": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 132,
+        "display": 150,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-174937/Samsung-Galaxy-Z-Flip6_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy z fold2": {
+        "selfie": null,
+        "audio": 114,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-63759/samsung_galaxy_z-fold2-1.jpg"
+    },
+    "samsung galaxy z fold3": {
+        "selfie": 83,
+        "audio": 120,
+        "mobile": 120,
+        "display": null,
+        "battery": 92,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-99814/Samsung-Z-Fold3-5G-featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy z fold4": {
+        "selfie": null,
+        "audio": 134,
+        "mobile": 124,
+        "display": 130,
+        "battery": 99,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-126641/Samsung-Galaxy-Z-Fold4_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy z fold5": {
+        "selfie": null,
+        "audio": 133,
+        "mobile": 128,
+        "display": 142,
+        "battery": 114,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-154336/Samsung-Galaxy-Z-Fold5_screen_featured-image-packshot-review.jpg"
+    },
+    "samsung galaxy z fold6": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 133,
+        "display": 154,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-174935/Samsung-Galaxy-Z-Fold6_featured-image-packshot-review.jpg"
+    },
+    "sony xperia 1": {
+        "selfie": 100,
+        "audio": 93,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-32322/sonyxperia1.jpeg"
+    },
+    "sony xperia 1 ii": {
+        "selfie": null,
+        "audio": 103,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-50656/sonyyxperia1ii.jpg"
+    },
+    "sony xperia 1 iii": {
+        "selfie": null,
+        "audio": 113,
+        "mobile": 105,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-101686/Sony-Xperia-1-III-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "sony xperia 1 iv": {
+        "selfie": null,
+        "audio": 121,
+        "mobile": 118,
+        "display": 126,
+        "battery": 87,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-129209/featured-image-packshot-review-1.jpg"
+    },
+    "sony xperia 10 iv": {
+        "selfie": null,
+        "audio": 95,
+        "mobile": 63,
+        "display": 104,
+        "battery": 138,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-120178/Sony-Xperia-10-IV_featured-image-packshot-review-Recovered.jpg"
+    },
+    "sony xperia 10 v": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 78,
+        "display": 105,
+        "battery": 140,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-148728/Sony-Xperia-10-V_featured-image-packshot-review.jpg"
+    },
+    "sony xperia 5": {
+        "selfie": 102,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-37403/sony_xperia_5.jpg"
+    },
+    "sony xperia 5 iv": {
+        "selfie": null,
+        "audio": 111,
+        "mobile": 119,
+        "display": 131,
+        "battery": 113,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-122645/Sony-Xperia-5-IV_featured-image-packshot-review.jpg"
+    },
+    "sony xperia 5 v": {
+        "selfie": null,
+        "audio": 107,
+        "mobile": 118,
+        "display": 127,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-155536/Sony-Xperia-5-V_featured-image-packshot-review.jpg"
+    },
+    "tcl 406": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 52,
+        "display": null,
+        "battery": 87,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-148577/TCL-406_NEW-featured-image-packshot-review.jpg"
+    },
+    "tcl 40r": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 76,
+        "display": null,
+        "battery": 123,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-148740/TCL-40R-5G_featured-image-packshot-review.jpg"
+    },
+    "vivo iqoo 7 legend": {
+        "selfie": null,
+        "audio": 114,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-84513/IQOO7-Legend-featured-image-packshot-review.jpg"
+    },
+    "vivo iqoo 9 pro": {
+        "selfie": null,
+        "audio": 117,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-110307/Vivo-iQOO-9_featured-image-packshot-review.jpg"
+    },
+    "vivo x fold": {
+        "selfie": null,
+        "audio": 132,
+        "mobile": null,
+        "display": 137,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-133648/Vivo-X-Fold-featured-image-packshot-review.jpg"
+    },
+    "vivo x fold3 pro": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": 145,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-174053/Vivo-X-Fold3_featured-image-packshot-review-Recovered.jpg"
+    },
+    "vivo x100 pro": {
+        "selfie": null,
+        "audio": 134,
+        "mobile": 150,
+        "display": 153,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-164206/Vivo-X100-Pro_featured-image-packshot-review.jpg"
+    },
+    "vivo x50 pro plus": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 125,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-53210/vivo-x50-pro-plus.jpg"
+    },
+    "vivo x51": {
+        "selfie": 103,
+        "audio": 96,
+        "mobile": null,
+        "display": null,
+        "battery": 96,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-70961/vivo_x51_5G-1536x1152-1.jpg"
+    },
+    "vivo x60 pro": {
+        "selfie": 119,
+        "audio": 86,
+        "mobile": 116,
+        "display": 126,
+        "battery": 133,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-98708/Vivo-X60-Pro-Snapdragon_featured-image-packshot-review-Recovered-Recovered-Recovered.jpg"
+    },
+    "vivo x60 pro plus": {
+        "selfie": null,
+        "audio": 91,
+        "mobile": 126,
+        "display": null,
+        "battery": null,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-84395/Vivo-X60-Pro-Plus-featured-image-packshot-review.jpg"
+    },
+    "vivo x70 pro": {
+        "selfie": null,
+        "audio": 93,
+        "mobile": 126,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-106223/Vivo-X70-Pro-MediaTek-featured-image-packshot-review.jpg"
+    },
+    "vivo x70 pro plus": {
+        "selfie": 115,
+        "audio": 109,
+        "mobile": 134,
+        "display": 130,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-100667/Vivo-X70-Pro-featured-image-packshot-review-Recovered.jpg"
+    },
+    "vivo x80 lite": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 93,
+        "display": 99,
+        "battery": 136,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-133738/Vivo-X80-Lite-5G_featured-image-packshot-review-Recovered.jpg"
+    },
+    "vivo x80 pro": {
+        "selfie": null,
+        "audio": 125,
+        "mobile": 135,
+        "display": 133,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-129890/Vivo-X80-ProMediaTek-featured-image-packshot-review-1.jpg"
+    },
+    "vivo x90 pro": {
+        "selfie": null,
+        "audio": 133,
+        "mobile": 136,
+        "display": 132,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-136691/Vivo-X90-Pro_featured-image-packshot-review.jpg"
+    },
+    "vivo x90 pro plus": {
+        "selfie": 125,
+        "audio": 132,
+        "mobile": 140,
+        "display": 135,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-137989/Vivo-X90-Pro-Plus_featured-image-packshot-review-1.jpg"
+    },
+    "vivo y20s": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 116,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-79422/Vivo-Y20s-Featured.jpg"
+    },
+    "vivo y72": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 136,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-93164/featured_vivoy725g-1024x691-1.jpg"
+    },
+    "vivo y76": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 83,
+        "display": null,
+        "battery": 133,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-120142/Vivo-Y76-5G_featured-image-packshot-review.jpg"
+    },
+    "wiko power u20": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 110,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-83959/Wiko-U20-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "wiko power u30": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 131,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-80708/Wiko-Power-U30-featured-image-packshot-review.jpg"
+    },
+    "xiaomi 11t": {
+        "selfie": 115,
+        "audio": 126,
+        "mobile": null,
+        "display": null,
+        "battery": 136,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-97515/Xiaomi-11T-featured-image-packshot-review.jpg"
+    },
+    "xiaomi 11t pro": {
+        "selfie": 121,
+        "audio": 128,
+        "mobile": 108,
+        "display": null,
+        "battery": 126,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-97208/Xiaomi-11T-Pro-featured-image-packshot-review.jpg"
+    },
+    "xiaomi 12": {
+        "selfie": null,
+        "audio": 122,
+        "mobile": 113,
+        "display": 119,
+        "battery": 100,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-110018/Xiaomi-12-featured-image-packshot-review-Recovered.jpg"
+    },
+    "xiaomi 12 lite": {
+        "selfie": null,
+        "audio": 112,
+        "mobile": 109,
+        "display": null,
+        "battery": 118,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-134839/Xiaomi-12-Lite-5G_featured-image-packshot-review-Recovered.jpg"
+    },
+    "xiaomi 12 pro": {
+        "selfie": null,
+        "audio": 129,
+        "mobile": 129,
+        "display": 123,
+        "battery": 76,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-109360/Xiaomi-12-Pro-featured-image-packshot-review-1.jpg"
+    },
+    "xiaomi 12s ultra": {
+        "selfie": 114,
+        "audio": 129,
+        "mobile": 136,
+        "display": 125,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-121857/Xiaomi-12S-Ultra-featured-image-packshot-review.jpg"
+    },
+    "xiaomi 12t": {
+        "selfie": null,
+        "audio": 126,
+        "mobile": 115,
+        "display": 130,
+        "battery": 118,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-130310/Xiaomi-12T_featured-image-packshot-review.jpg"
+    },
+    "xiaomi 12t pro": {
+        "selfie": null,
+        "audio": 127,
+        "mobile": 129,
+        "display": 127,
+        "battery": 123,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-130950/Xiaomi-12T-Pro_featured-image-packshot-review.jpg"
+    },
+    "xiaomi 13": {
+        "selfie": null,
+        "audio": 134,
+        "mobile": 130,
+        "display": 132,
+        "battery": 128,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-139298/Xiaomi-13-featured-image-packshot-review-Recovered.jpg"
+    },
+    "xiaomi 13 pro": {
+        "selfie": null,
+        "audio": 140,
+        "mobile": 136,
+        "display": 131,
+        "battery": 126,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-139229/Xiaomi-13-Pro_featured-image-packshot-review-Recovered.jpg"
+    },
+    "xiaomi 13 ultra": {
+        "selfie": 128,
+        "audio": 140,
+        "mobile": 140,
+        "display": 130,
+        "battery": 133,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-149039/Xiaomi-13-Ultra_featured-image-packshot-review.jpg"
+    },
+    "xiaomi 13t": {
+        "selfie": null,
+        "audio": 128,
+        "mobile": 123,
+        "display": 129,
+        "battery": 114,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-155619/Xiaomi-13T_featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "xiaomi 13t pro": {
+        "selfie": null,
+        "audio": 122,
+        "mobile": 131,
+        "display": 129,
+        "battery": 120,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-158018/Xiaomi-13T-Pro_featured-image-packshot-review.jpg"
+    },
+    "xiaomi 14": {
+        "selfie": null,
+        "audio": 135,
+        "mobile": 138,
+        "display": 137,
+        "battery": 133,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-167814/Xiaomi-14-featured-image-packshot-review.jpg"
+    },
+    "xiaomi 14 ultra": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 149,
+        "display": null,
+        "battery": 123,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-167787/Xiaomi-14-Ultra_featured-image-packshot-review.jpg"
+    },
+    "xiaomi mi 10 pro": {
+        "selfie": 109,
+        "audio": 144,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-41332/xiaomiMI-10-Pro.jpg"
+    },
+    "xiaomi mi 10 s": {
+        "selfie": null,
+        "audio": 147,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": ""
+    },
+    "xiaomi mi 10 ultra": {
+        "selfie": 115,
+        "audio": null,
+        "mobile": 129,
+        "display": 103,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-55724/xiaomimi10ultra-1024x768-1.jpg"
+    },
+    "xiaomi mi 10t pro": {
+        "selfie": 116,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 114,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-65185/XiaomiMi10TPro.jpg"
+    },
+    "xiaomi mi 11": {
+        "selfie": 112,
+        "audio": 116,
+        "mobile": null,
+        "display": 125,
+        "battery": 82,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-75917/xiaomimi11.jpg"
+    },
+    "xiaomi mi 11 lite": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 107,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-87137/Xiaomi-Mi-11-Lite-5G-featured-image-packshot-review-Recovered.jpg"
+    },
+    "xiaomi mi 11 pro": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 124,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-92345/Xiaomi-Mi-11-Pro-featured-image-packshot-review-Recovered.jpg"
+    },
+    "xiaomi mi 11 ultra": {
+        "selfie": 125,
+        "audio": 119,
+        "mobile": 141,
+        "display": 125,
+        "battery": 108,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-101758/Xiaomi-Mi-11-Ultra-featured-image-packshot-review.jpg"
+    },
+    "xiaomi mi 11i": {
+        "selfie": null,
+        "audio": 115,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://www.dxomark.cn/wp-content/uploads/medias/post-105387/Xiaomi-Mi-11i-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "xiaomi mi cc9 pro premium edition": {
+        "selfie": 100,
+        "audio": 97,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-42060/xiaomi_mi_cc_9_pro_premium_edition-1.jpg"
+    },
+    "xiaomi mi mix 3": {
+        "selfie": 109,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-23978/mimix3.jpg"
+    },
+    "xiaomi mix fold 2": {
+        "selfie": null,
+        "audio": 121,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-140841/Xiaomi-Mix-Fold-2_featured-image-packshot-review.jpg"
+    },
+    "xiaomi mix fold 3": {
+        "selfie": null,
+        "audio": 130,
+        "mobile": null,
+        "display": 132,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-161082/Xiaomi-Mix-Fold-3_featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi 10 2022": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 51,
+        "display": null,
+        "battery": 100,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-120456/Xiaomi-Redmi-10-2022-featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi 12": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 63,
+        "display": null,
+        "battery": 95,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-155620/Xiaomi-Redmi-12-5G_featured-image-packshot-review-Recovered-1.jpg"
+    },
+    "xiaomi redmi 12c": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 45,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-146048/Xiaomi-Redmi-12C_featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi 13c": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 60,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-173443/Xiaomi-13c-5G_Yoast-image-packshot-review.jpg"
+    },
+    "xiaomi redmi 9": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 88,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-78107/Xiaomi-Redmi-9-featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi a3": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 45,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-177523/Xiaomi-Redmi-A3_featured-image-packshot-review.png"
+    },
+    "xiaomi redmi k40 gaming": {
+        "selfie": null,
+        "audio": 119,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/drafts/post-93193/Xiaomi-Redmi-K40-Gaming-featured-image-packshot-review-Recovered-Recovered-Recovered.jpg"
+    },
+    "xiaomi redmi k40 pro plus": {
+        "selfie": null,
+        "audio": 116,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-86401/Xiaomi-Redmi-K40-Pro-featured-image-packshot-review-Recovered-1.jpg"
+    },
+    "xiaomi redmi k50 gaming": {
+        "selfie": null,
+        "audio": 128,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-121644/Xiaomi-Redmi-K50-Gaming_featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi note 10": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 120,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-87178/Xiaomi-Redmi-Note-10-5G-featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi note 10 pro": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 129,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-79073/Xiaomi-Redmi-Note-10-Pro-_Yoast-image-packshot-review.jpg"
+    },
+    "xiaomi redmi note 10s": {
+        "selfie": null,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": 132,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-92343/Xiaomi-Redmi-Note-10S-featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi note 11": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 60,
+        "display": null,
+        "battery": 119,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-111664/Xiaomi-Redmi-Note-11_-featured-image-packshot-review-Recovered-Recovered.jpg"
+    },
+    "xiaomi redmi note 11 pro": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 78,
+        "display": null,
+        "battery": 134,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-116257/Xiaomi-Redmi-Note-11-Pro-5G_featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi note 11s": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 65,
+        "display": null,
+        "battery": 133,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-120078/Redmi-11S-5G.png"
+    },
+    "xiaomi redmi note 12": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 63,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-146043/Xiaomi-Redmi-Note-12_featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi note 12 pro": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 102,
+        "display": null,
+        "battery": 136,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-145957/Xiaomi-Redmi-Note-12-Pro-5G-Plain_featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi note 12 pro plus": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 113,
+        "display": null,
+        "battery": 129,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-145252/Xiaomi-Redmi-Note-12-Pro-5G_featured-image-packshot-review-Recovered.jpg"
+    },
+    "xiaomi redmi note 13": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 91,
+        "display": null,
+        "battery": 94,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-166827/Xiaomi-Redmi-Note-13-5G_featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi note 13 pro": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 120,
+        "display": null,
+        "battery": 120,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-164973/Xiaomi-Redmi-Note-13-Pro-5G_featured-image-packshot-review.jpg"
+    },
+    "xiaomi redmi note 13 pro plus": {
+        "selfie": null,
+        "audio": null,
+        "mobile": 121,
+        "display": 135,
+        "battery": 111,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-164163/Xiaomi-Redmi-Note-13-Pro-5G_featured-image-packshot-review.jpg"
+    },
+    "zte axon 20": {
+        "selfie": 31,
+        "audio": null,
+        "mobile": null,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-74175/ZTE-Axon-20-5G.jpg"
+    },
+    "zte axon 30 ultra": {
+        "selfie": null,
+        "audio": 109,
+        "mobile": 96,
+        "display": null,
+        "battery": null,
+        "image": "https://cdn.dxomark.com/wp-content/uploads/medias/post-91386/ZTE-Axon-30-Ultra-featured-image-packshot-review.jpg"
+    }
+}

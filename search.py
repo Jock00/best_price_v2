@@ -3,6 +3,8 @@ import json
 from database.db_scripts import PhonesDB
 from crawler_parse import Parser
 from scrapy.crawler import CrawlerProcess
+import crawlers_parse_python
+import time
 
 def search_in_db(db_name, args):
     db = PhonesDB(db_name)
@@ -12,29 +14,26 @@ def search_in_db(db_name, args):
 
 
 def get_prices(urls):
+    results = []
+    for url in urls:
+        if "vexio.ro" in url:
+            res = crawlers_parse_python.get_data_vexio.delay(url)
+        elif "altex.ro" in url:
+            res = crawlers_parse_python.get_data_altex.delay(url)
+        else:
+            continue
+        results.append(res.get(timeout=50))
+    results = sorted(results, key=lambda x: x["price"])
+    with open("data2.json", "w") as f:
+        f.write(json.dumps(results, indent=4))
+    return results
 
-    file = "output.json"
-    process = CrawlerProcess(settings={
-        'LOG_ENABLED': False,
-        #         # 'LOG_LEVEL': 'INFO',
-        'FEEDS': {
-            file: {
-                'format': 'json',
-                'overwrite': True,
-            },
-        },
-    })
-
-    # Start the crawling process
-    process.crawl(Parser, urls=urls)
-    process.start()
-
-    with open(file, "r") as f:
-        data = json.loads(f.read())
-
-    # Sort the data by price in ascending order
-        sorted_data = sorted(data, key=lambda x: x['price'])
-        return sorted_data
+    # with open(file, "r") as f:
+    #     data = json.loads(f.read())
+    #
+    # # Sort the data by price in ascending order
+    #     sorted_data = sorted(data, key=lambda x: x['price'])
+    #     return sorted_data
         # f.write(json.dumps(sorted_data))
     # Print the sorted data
     #     print(json.dumps(sorted_data, indent=4))

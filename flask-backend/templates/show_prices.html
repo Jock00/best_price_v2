@@ -1,0 +1,58 @@
+<table>
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Shop</th>
+        <th>Price</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for result in results %}
+    <tr>
+        <td>
+            <span class="arrow" onclick="toggleDetails(this)">&#9654;</span>
+            <!-- Right Arrow -->
+            {{ loop.index }}
+        </td>
+
+
+        <td> {{result.name }}</td>
+        <td>
+            <a href="{{ result.url}}" target="_blank"
+               rel="noopener noreferrer">
+                {{ result.shop }}
+            </a>
+        </td>
+        <td>{{ result.price }}</td>
+    </tr>
+    <tr class="details-row"
+        style="margin-right: 33.33%; font-family: 'Arial', sans-serif;">
+        <td colspan="5">
+            <p>Recommended price: {{ result.rpr}}
+            </p>
+            <p>Rating: {{ result.rating }}</p>
+
+            <p>
+                {% if result.resealed %}
+            <div>
+                Resealed:
+                {% for item in result.resealed %}
+                <div class="tooltip">
+                    <span>{{ item.price }}{% if not loop.last %},{% endif %}</span>
+                    <div class="tooltiptext">
+                        {% for reason in item.reason %}
+                        <p>{{ reason }}</p>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %}
+            </p>
+        </td>
+    </tr>
+    {% endfor %}
+
+    </tbody>
+</table>
