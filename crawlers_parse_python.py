@@ -1,3 +1,4 @@
+# celery -A crawlers_parse_python worker --loglevel=info
 from celery import Celery
 import time
 import requests
