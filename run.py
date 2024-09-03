@@ -1,5 +1,4 @@
 from crawler_discovery import discovery
-import index_string
 import index
 import json
 
@@ -16,7 +15,7 @@ for phone in all_phones:
     result.append(data)
 
 with open("flask-backend/phones.json", "w") as f:
-    f.write(json.dumps(result))
+    f.write(json.dumps(result, indent=4))
         # print(json.dumps(data, indent=4))
 
 # all_phones = altex_phones + vexio_phones + qm_mobile

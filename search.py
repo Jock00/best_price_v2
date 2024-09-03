@@ -1,8 +1,8 @@
 import argparse
 import json
-from database.db_scripts import PhonesDB
-from crawler_parse import Parser
-from scrapy.crawler import CrawlerProcess
+# from database.db_scripts import PhonesDB
+# from crawler_parse import Parser
+# from scrapy.crawler import CrawlerProcess
 import crawlers_parse_python
 import time
 
@@ -20,6 +20,8 @@ def get_prices(urls):
             res = crawlers_parse_python.get_data_vexio.delay(url)
         elif "altex.ro" in url:
             res = crawlers_parse_python.get_data_altex.delay(url)
+        elif "telefonultau.eu" in url:
+            res = crawlers_parse_python.get_data_telefonul_tau.delay(url)
         else:
             continue
         results.append(res.get(timeout=50))

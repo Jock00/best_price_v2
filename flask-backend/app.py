@@ -71,7 +71,6 @@ def go_data():
     #
     elements = []
     phones_data = load_phone_data()
-    print(phones_data)
     links = []
     # print(filters)
     for phone in phones_data:
@@ -84,6 +83,7 @@ def go_data():
         # print(total_filters)
         if total_filters == 0:
             links.append(phone['url'])
+    print(links)
     results = search.get_prices(links)
     # with open("data2.json", "r") as f:
     #     results = json.loads(f.read())
