@@ -113,6 +113,36 @@ def get_data_altex(link):
 
     return elem
 
+# quick mobile
+@app.task
+def get_data_quickmobile(link):
+
+    r = requests.get(link)
+
+    response = fromstring(r.text)
+
+    name = response.xpath("//title/text()")[0].split("- Quickmobile")[0].strip()
+
+    # Extract data you want from the page
+    script = response.xpath("//script[@type='application/ld+json']//text()")[1]
+
+    data = json.loads(script)
+    price = data["offers"]["price"]
+
+    rating = None
+
+    elem = {
+        "url": link,
+        "price": float(price),
+        "name": name,
+        "shop": "quickmobile",
+        "rating": rating,
+        "rpr": None,
+        "resealed": []
+    }
+
+    return elem
+
 
 # telefonul tau
 @app.task

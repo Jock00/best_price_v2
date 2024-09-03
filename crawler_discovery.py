@@ -28,7 +28,8 @@ class DiscoverySpider(scrapy.Spider):
         "altex": "https://altex.ro/telefoane/cpl/filtru/p/1/",
         "vexio": "https://www.vexio.ro/smartphone/",
         "quickmobile": "https://www.quickmobile.ro/telefoane-mobile/p0",
-        "telefonul_tau": "https://telefonultau.eu/p/telefoane-mobile?page="
+        "telefonul_tau": "https://telefonultau.eu/p/telefoane-mobile?page=",
+
     }
 
     def start_requests(self):

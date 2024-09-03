@@ -22,6 +22,8 @@ def get_prices(urls):
             res = crawlers_parse_python.get_data_altex.delay(url)
         elif "telefonultau.eu" in url:
             res = crawlers_parse_python.get_data_telefonul_tau.delay(url)
+        elif "quickmobile.ro" in url:
+            res = crawlers_parse_python.get_data_quickmobile.delay(url)
         else:
             continue
         results.append(res.get(timeout=50))
